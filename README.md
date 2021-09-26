@@ -1,7 +1,7 @@
 通过Docker打包威联通QNAP NAS的qpkg文件
 ============================================
-官方的Docker打包工具
-https://github.com/qnap-dev/docker-qdk2
++ 官方的Docker打包工具https://github.com/qnap-dev/docker-qdk2
++ 官方NAS QDK打包https://cheng-yuan-hong.gitbook.io/qdk-quick-start-guide/build-your-own-qpkg
 ============================================
 
 ### Frpc打包
